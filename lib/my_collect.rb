@@ -1,6 +1,4 @@
-
-
-def collect(arr)
+def my_collect(arr)
   i = 0
   col = []
   while i < col.length
