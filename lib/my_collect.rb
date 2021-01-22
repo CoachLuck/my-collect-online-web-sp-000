@@ -7,6 +7,6 @@ def collect(arr)
     col << yield(arr[i])
     i += 1
   end
-  
+
   col
 end
